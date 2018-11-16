@@ -2,7 +2,7 @@ body {
 	font-family: 'Montserrat', sans-serif;
 	font-size: 15px;
 	line-height: 1.5;
-	color: #b7b7b7;
+	color: #fcfefc;
 	background-color:#010101;
 	-webkit-font-smoothing: antialiased;
 }
@@ -23,7 +23,7 @@ body {
 
 /*---------- Preloader Css Start -------*/
 #preloader {
-	background-color: #010101;
+	background-color: #fcfefc;
 	bottom: 0;
 	left: 0;
 	position: fixed;

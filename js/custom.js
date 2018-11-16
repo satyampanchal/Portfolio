@@ -6,3 +6,4 @@
 		jQuery("#status").fadeOut();
 		jQuery("#preloader").delay(200).fadeOut("slow");
 	});
+})();
